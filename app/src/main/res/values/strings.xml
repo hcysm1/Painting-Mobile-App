@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Painting</string>
+    <string name="change_colour">Change Colour</string>
+    <string name="brush">Brush</string>
+    <string name="change_brush">Change Brush</string>
+    <string name="activity_2">activity 2</string>
+    <string name="activity_3">Activity 3</string>
+    <string name="brush_size">Pen size:</string>
+    <string name="brush_siz">Brush Size</string>
+    <string name="brush_shape">Brush Shape</string>
+    <string name="textView">TextView</string>
+    <string name="select_a_colour">Select a Colour</string>
+    <string name="select_a_brush_size">Select a Brush Size</string>
+    <string name="select_a_brush_shape">Select a Brush Shape</string>
+    <string name="round">Round</string>
+    <string name="buttonSquare">Button</string>
+    <string name="square">Square</string>
+    <string name="selected_brush_width">Selected Brush Width</string>
+    <string name="textviewww">TextView</string>
+    <string name="enter_a_brush_size_from_0_100">Enter a Brush Size from 0 - 100</string>
+    <string name="enter_brush_size">Enter Brush Size</string>
+    <string name="enter_brush_shape_round_or_square">Enter Brush Shape Round or Square</string>
+    <string name="enter_brush_shape">Enter Brush Shape</string>
+    <string name="select_a_colourr">SELECT A COLOUR</string>
+    <string name="current_colourr">Current Colour:</string>
+    <string name="round_or_square">Round or Square</string>
+    <string name="_0_100">0 - 100</string>
+    <string name="brush_shape_butt">Brush Shape: Butt</string>
+    <string name="brush_size_0">Brush Size: 0</string>
+    <string name="current_colour_ff000000">Current Colour: FF000000</string>
+</resources>
